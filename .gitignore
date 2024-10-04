@@ -1,0 +1,11 @@
+.vscode/
+docs/build/
+Debug/
+revise/
+*.log
+*.lp
+*.mps
+*.ipynb
+*notebook-checkpoint
+.DS_Store
+Manifest.toml
